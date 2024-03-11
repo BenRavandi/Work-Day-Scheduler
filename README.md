@@ -24,4 +24,4 @@ The following displays a snapshot of my Daily Planner Application:
 ## Test
 
 The following link will take you to my daily planner application: <br>
- <a href="https://benravandi.github.io/PasswordGeneratorApp/">Visit MyDailyPlanner!</a>
+ <a href="https://benravandi.github.io/Work-Day-Scheduler/">Visit MyDailyPlanner!</a>
